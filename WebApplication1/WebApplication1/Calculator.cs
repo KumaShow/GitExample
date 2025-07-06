@@ -13,5 +13,10 @@ namespace WebApplication1
     {
       return left - right;
     }
+
+    public int Multiply(int left, int right)
+    {
+      return left * right;
+    }
   }
 }
